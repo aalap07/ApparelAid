@@ -115,20 +115,14 @@ font-size:1.1em;
 /*--navigation--*/
 /*--banner--*/
 .banner{
-	background:url(../images/kids.jpg) no-repeat center;
-
-    background-size:100%;
-    background-attachment: fixed
+	background:url(../images/kids.jpg) no-repeat 0px 0px;
+	background-size:cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	-moz-background-size: cover;
-    @media (max-width:640px) {
-  section {
-    background-attachment:initial;
-  }
-}
-	
+	min-height:887px;
+
 }
 
 .banner-info {

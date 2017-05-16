@@ -124,11 +124,6 @@ font-size:1.1em;
 	-moz-background-size: cover;
 	
 }
-@media (max-width:640px) {
-  section {
-    background-attachment:initial;
-  }
-}
 .banner-info {
    margin: 16em 0 0;
     float: none;

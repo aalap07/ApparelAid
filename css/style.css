@@ -118,7 +118,7 @@ font-size:1.1em;
 	background:url(../images/kids.jpg) no-repeat center;
 
     background-size:cover;
-    background-attachment: fixed;
+  
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;

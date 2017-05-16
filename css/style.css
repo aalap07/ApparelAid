@@ -1320,10 +1320,8 @@ h3.tittle, h3.tittle1 {
 }
 @media(max-width:414px){
 .banner {
-    background: url(../images/banner22.jpg) no-repeat -150px 0px;
-    background-size: cover;
-    min-height: 400px;
-}
+       min-height: 400px;  
+   }
 .logo a {
     font-size: 1.8em;
 }

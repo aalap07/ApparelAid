@@ -116,7 +116,8 @@ font-size:1.1em;
 /*--banner--*/
 .banner{
 	background:url(../images/kids.jpg) no-repeat 0px 0px;
-	background-size:auto;
+	background-size:cover;
+    background-attachment: fixed;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
